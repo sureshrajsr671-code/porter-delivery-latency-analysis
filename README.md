@@ -8,7 +8,7 @@ Diagnosing Operational Latency, Supply-Demand Imbalances, and Actionable Interve
 An in-depth empirical investigation across 175,000+ delivery transactions across 6 metro markets to diagnose operational latency and reverse customer dissatisfaction.
 
 ### Key Performance Metrics
-- **Target Benchmark Delivery Window:** 32.0 minutes
+-**Target Benchmark Delivery Window:** 32.0 minutes
 - **Average Actual Delivery Time:** 48.6 minutes
 - **Customer Expectation Gap:** +16.6 minutes deficit
 - **SLA Breach Rate:** Over 38.4% of deliveries experienced SLA breaches exceeding 15 minutes, directly driving app rating declines and order cancellations.
